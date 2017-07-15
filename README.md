@@ -3,6 +3,7 @@
 </div>
 
 eslint-config-omaha-prime-grade [![npm](https://img.shields.io/npm/v/eslint-config-omaha-prime-grade.svg?maxAge=2592000?style=flat-square)](https://www.npmjs.com/package/eslint-config-omaha-prime-grade) [![npm](https://img.shields.io/npm/l/eslint-config-omaha-prime-grade.svg?maxAge=2592000?style=flat-square)](https://github.com/omahajs/eslint-config-omaha-prime-grade/blob/master/LICENSE)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fomahajs%2Feslint-config-omaha-prime-grade.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fomahajs%2Feslint-config-omaha-prime-grade?ref=badge_shield)
 ===============================
 > Shareable ESLint config to make "Prime Grade" quality code
 
@@ -42,3 +43,7 @@ Why "Prime Grade"?
 - After ruminating on the concept of "high quality beef", I found that beef has some [serious quality metrics](https://meat.tamu.edu/beefgrading/).
 - As a resident engineer of Omaha that loves high quality and the metrics that maintain it...Applying the concept of "Prime Grade" to code seemed like a fairly obvious thing to do :smile:
 - Generally, "Prime Grade Code" is **sustainable** ([secure](RULES_FOR_SECURITY.md) and maintainable)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fomahajs%2Feslint-config-omaha-prime-grade.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fomahajs%2Feslint-config-omaha-prime-grade?ref=badge_large)
